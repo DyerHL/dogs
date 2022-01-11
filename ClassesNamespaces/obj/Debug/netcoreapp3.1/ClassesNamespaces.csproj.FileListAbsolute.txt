@@ -1,0 +1,13 @@
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\bin\Debug\netcoreapp3.1\ClassesNamespaces.exe
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\bin\Debug\netcoreapp3.1\ClassesNamespaces.deps.json
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\bin\Debug\netcoreapp3.1\ClassesNamespaces.runtimeconfig.json
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\bin\Debug\netcoreapp3.1\ClassesNamespaces.runtimeconfig.dev.json
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\bin\Debug\netcoreapp3.1\ClassesNamespaces.dll
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\bin\Debug\netcoreapp3.1\ClassesNamespaces.pdb
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.AssemblyInfoInputs.cache
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.AssemblyInfo.cs
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.dll
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.pdb
+C:\Users\halie\source\repos\ClassesNamespaces\ClassesNamespaces\obj\Debug\netcoreapp3.1\ClassesNamespaces.genruntimeconfig.cache
